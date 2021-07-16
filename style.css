@@ -12,7 +12,7 @@
 header {
   background: transparent;
   background-image: linear-gradient(to right, #63636471, #636364ba),
-    url("/bigstock-Cutout-paper-chain-family-with-16555013.jpg");
+    url("bigstock-Cutout-paper-chain-family-with-16555013.jpg");
   margin: 0 40px;
   height: 100vh;
 }
